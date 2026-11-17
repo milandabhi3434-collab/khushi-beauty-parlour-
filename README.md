@@ -7,13 +7,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/milandabhi3434-collab/khushi-beauty_parlour.git
 git push -u origin main
-echo "# -.-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/milandabhi3434-collab/-.-.git
-git push -u origin main
   <article class="card feature">
     <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3c-3 3-5 5.5-5 9a5 5 0 0 0 10 0c0-3.5-2-6-5-9z"/><path d="M12 22v-5"/></svg></div>
     <div>
